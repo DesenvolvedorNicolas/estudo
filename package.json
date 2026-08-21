@@ -1,0 +1,19 @@
+{
+  "name": "backend-912a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "mkdir meu-servidor-node cd meu-servidor-node npm init -y npm install express sequelize mysql2 dotenv",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.3",
+    "sequelize": "^6.37.7"
+  }
+}
